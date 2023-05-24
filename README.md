@@ -22,4 +22,4 @@ A well-annotated Biomedical Alert News Dataset
 ### Run Decoder-only Model
 ```
 python train_lm.py --name "gpt2"
-```ß
+```
