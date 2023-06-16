@@ -23,3 +23,23 @@ A well-annotated Biomedical Alert News Dataset
 ```
 python train_lm.py --name "gpt2"
 ```
+
+## Named Entity Recognition
+
+### Run Token-Based NER Model
+
+```
+./scripts/run_token_ner.sh
+```
+
+### Run CRF-Based NER Model
+
+```
+./scripts/run_crf_ner.sh
+```
+
+### Run Span-Based NER Model
+
+```
+./scripts/run_span_ner.sh
+```
