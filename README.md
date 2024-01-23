@@ -60,7 +60,7 @@ If you find our dataset or paper useful, please cite our work:
 @inproceedings{band2024,
   title={BAND: Biomedical Alert News Dataset},
   author={Fu, Zihao and Zhang, Meiru and Meng, Zaiqiao and Shen, Yannan and Buckeridge, David and Collier, Nigel},
-  booktitle={AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2024}
 }
 ```
