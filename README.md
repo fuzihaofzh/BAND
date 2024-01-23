@@ -10,9 +10,12 @@
 [[Paper (Full+Appendix)]](https://arxiv.org/pdf/2305.14480.pdf)
 
 
+
+
 ## About
 The Biomedical Alert News Dataset (BAND) is a well-annotated dataset aimed at improving disease surveillance and understanding of disease spread. It includes 1,508 samples from reported news articles, open emails, and alerts, along with 30 epidemiology-related questions. BAND is designed to challenge and advance NLP models in tasks like Named Entity Recognition (NER), Question Answering (QA), and Event Extraction (EE), with a focus on epidemiological analysis.
 
+<div align="center"><img width="624" alt="image" src="https://github.com/fuzihaofzh/BAND/assets/1419566/b6b9607b-6d0c-406e-afe8-b862835c8db3"></div>
 
 
 ## Dataset
