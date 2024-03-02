@@ -7,9 +7,11 @@
 <sup>3</sup>School of Population and Global Health, McGill University
 </div>
 
-[[Paper (Full+Appendix)]](https://arxiv.org/pdf/2305.14480.pdf)
 
-
+[![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/pdf/2305.14480.pdf)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red.svg)](https://www.youtube.com/watch?v=uvlF1RgQA-Q)
+[![Slides](https://img.shields.io/badge/View-Slides-green.svg)](https://github.com/fuzihaofzh/BioNER-SynGen/blob/main/AAAI24%20-%20BAND%20Dataset%20slides.pdf)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## About
@@ -67,3 +69,6 @@ If you find our dataset or paper useful, please cite our work:
   year={2024}
 }
 ```
+
+## License
+This project is licensed under the MIT License - refer to the [LICENSE](LICENSE) file for details.
