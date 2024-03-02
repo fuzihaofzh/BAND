@@ -7,12 +7,12 @@
 <sup>3</sup>School of Population and Global Health, McGill University
 </div>
 
-
+<div align="center">
 [![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/pdf/2305.14480.pdf)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red.svg)](https://www.youtube.com/watch?v=uvlF1RgQA-Q)
-[![Slides](https://img.shields.io/badge/View-Slides-green.svg)](https://github.com/fuzihaofzh/BioNER-SynGen/blob/main/AAAI24%20-%20BAND%20Dataset%20slides.pdf)
+[![Slides](https://img.shields.io/badge/View-Slides-green.svg)](https://github.com/fuzihaofzh/BAND/blob/main/AAAI24%20-%20BAND%20Dataset%20slides.pdf)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+</div>
 
 ## About
 The Biomedical Alert News Dataset (BAND) is a well-annotated dataset aimed at improving disease surveillance and understanding of disease spread. It includes 1,508 samples from reported news articles, open emails, and alerts, along with 30 epidemiology-related questions. BAND is designed to challenge and advance NLP models in tasks like Named Entity Recognition (NER), Question Answering (QA), and Event Extraction (EE), with a focus on epidemiological analysis.
